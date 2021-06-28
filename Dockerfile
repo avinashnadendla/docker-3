@@ -8,7 +8,6 @@ RUN npm install
 
 COPY . .
 
-VOLUME [ "/app/feedback" ]
 
 EXPOSE 80
 
